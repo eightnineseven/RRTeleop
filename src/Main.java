@@ -37,16 +37,18 @@ public class Main {
     public static double clawX(double heading, double liftLength){
         double a = 7 * heading;
         double r = 7;
+        //return formula im just too lazy
         return 0;
 
     }
     public static double clawY(double heading, double liftLength){
         double a = 7 * heading;
         double r = 7;
+        //return formula im just too lazy
         return 0;
     }
     public static void nearestTerminal(double x, double y){
-
+        //put traj here
     }
 
 }
